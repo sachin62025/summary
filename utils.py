@@ -2,7 +2,7 @@ from langchain.prompts import PromptTemplate
 from langchain_groq import ChatGroq
 import validators
 
-groq_api_key = "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--"
+groq_api_key = "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"
 
 # Initialize the LLM
 llm = ChatGroq(model="llama-3.3-70b-specdec", groq_api_key=groq_api_key)
