@@ -8,7 +8,7 @@ groq_api_key = "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"
 llm = ChatGroq(model="llama-3.3-70b-specdec", groq_api_key=groq_api_key)
 
 prompt_template = """
-Provide a summary of the following content in 50 words:
+Provide a summary of the following content in 200 words:
 Content:{text}
 """
 prompt = PromptTemplate(template=prompt_template, input_variables=["text"])
