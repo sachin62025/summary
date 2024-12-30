@@ -9,7 +9,8 @@ This project is a Streamlit application that summarizes content from various sou
 - **Summarize YouTube Videos**: Provide a YouTube video URL to receive a summary of its content.
 - **Summarize Text Input**: Directly input text to generate a summary.
 
-## Aplication![Screenshot 2024-12-30 180911](https://github.com/user-attachments/assets/e68a73b5-4c38-4e68-b384-57415759b77d)
+## Aplication
+![Screenshot 2024-12-30 180911](https://github.com/user-attachments/assets/e68a73b5-4c38-4e68-b384-57415759b77d)
 
 ## Installation
 
